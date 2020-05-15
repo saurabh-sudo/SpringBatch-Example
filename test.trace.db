@@ -1,0 +1,9 @@
+2020-03-05 17:33:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+SELECT id,name,dept,salary,time FROM User [42102-197]
+2020-03-05 17:34:05 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+SELECT id,name,dept,salary,time FROM User [42102-197]
+2020-03-05 17:36:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "USER" not found; SQL statement:
+SELECT id,name,dept,salary,time FROM User [42102-197]
